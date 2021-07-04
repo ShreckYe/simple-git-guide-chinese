@@ -16,7 +16,7 @@ Git是一个免费开源的分布式版本控制系统。
 作者：Linus Torvalds，Linux系统的创造者
 
 ### GitHub是什么？  
-GitHub是现在最流行的Git远程端托管服务提供商（下文简称托管商），现已被微软收购。GitHub也同时也因此成为了最大的开源软件托管网站。
+GitHub是现在最流行的Git远程端托管服务提供商（下文简称托管商），现已被微软收购。GitHub也同时也因此成为了最大的开源软件托管网站。这些提供商一般也同时提供DevOps相关的功能。
 
 其他类似的服务有：[GitLab](https://gitlab.com/)、[BitBucket](https://bitbucket.org/)、[码云 Gitee](https://gitee.com/)
 
